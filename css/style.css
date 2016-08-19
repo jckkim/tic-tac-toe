@@ -6,3 +6,8 @@
   border: 1px solid black;
   height: 150px;
 }
+
+.resetButton {
+  margin-top: 100px;
+  text-align: center;
+}
