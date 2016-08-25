@@ -1,5 +1,7 @@
 # Tic Tac Toe - Weekend Lab
 
+Will update this page once completed - JK
+
 **Objective:** Build a tic-tac-toe game in HTML, CSS, and JavaScript.
 
 
